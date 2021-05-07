@@ -1,0 +1,32 @@
+@import '~@coreui/icons/scss/coreui-icons';
+@import '~flag-icon-css/sass/flag-icon';
+@import '~font-awesome/scss/font-awesome';
+@import '~simple-line-icons/scss/simple-line-icons';
+@import '~datatables.net-bs4/css/dataTables.bootstrap4.min.css';
+
+@font-face {
+    font-family: "Avenir LT Std Roman";
+    src: url('../fonts/AvenirLTStd-Roman.woff');
+}
+
+@font-face {
+    font-family: "Avenir LT Std Heavy";
+    src: url("../fonts/AvenirLTStd-Heavy.woff");
+}
+
+@import url(https://fonts.googleapis.com/css?family=Nunito:200,300,400,700);
+$font-family-base:Nunito;
+
+@import 'colors';
+// If you want to override variables do it here
+@import 'variables';
+
+@import '~@coreui/coreui-pro/scss/coreui';
+
+// If you want to add something do it here
+@import 'custom';
+
+// Spinkit
+$spinkit-spinner-color: $body-color;
+@import '~spinkit/scss/spinkit.scss';
+@import 'vendor/pace-progress/pace';

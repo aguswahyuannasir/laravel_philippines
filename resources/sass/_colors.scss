@@ -1,0 +1,23 @@
+@import '~@coreui/coreui-pro/scss/variables/colors';
+
+$primary:   #e42f35;
+$secondary: #CACACA;
+$success:   #015668;
+$danger:    #06648C;
+$info:      #0F81C7;
+$warning:   #0DE2EA;
+$light:     #ececec;
+$dark:      #222222;
+
+$theme-colors: (
+    "primary":    $primary,
+    "secondary":  $secondary,
+    "success":    $success,
+    "info":       $info,
+    "warning":    $warning,
+    "danger":     $danger,
+    "light":      $light,
+    "dark":       $dark
+);
+
+

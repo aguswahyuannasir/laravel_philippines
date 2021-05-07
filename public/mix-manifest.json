@@ -1,0 +1,16 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/vendor/jquery/jquery.min.js": "/js/vendor/jquery/jquery.min.js",
+    "/js/vendor/pace/pace.min.js": "/js/vendor/pace/pace.min.js",
+    "/js/vendor/coreui-pro/coreui.min.js": "/js/vendor/coreui-pro/coreui.min.js",
+    "/js/vendor/datatables.net/jquery.dataTables.js": "/js/vendor/datatables.net/jquery.dataTables.js",
+    "/js/vendor/datatables.net/dataTables.bootstrap4.js": "/js/vendor/datatables.net/dataTables.bootstrap4.js",
+    "/js/vendor/bootstrap-daterangepicker/daterangepicker.js": "/js/vendor/bootstrap-daterangepicker/daterangepicker.js",
+    "/js/vendor/bootstrap-datepicker/datepicker.js": "/js/vendor/bootstrap-datepicker/datepicker.js",
+    "/js/vendor/moment/moment.min.js": "/js/vendor/moment/moment.min.js",
+    "/js/vendor/select2/select2.js": "/js/vendor/select2/select2.js",
+    "/css/vendor/bootstrap-daterangepicker/daterangepicker.css": "/css/vendor/bootstrap-daterangepicker/daterangepicker.css",
+    "/css/vendor/bootstrap-datepicker/datepicker.css": "/css/vendor/bootstrap-datepicker/datepicker.css",
+    "/css/vendor/select2/select2.css": "/css/vendor/select2/select2.css"
+}
